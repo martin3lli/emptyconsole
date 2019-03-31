@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\Latencyx\Desktop\programmer\C++\EmptyClicker\ConsoleApplication1\main.cpp(148): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Latencyx\Desktop\programmer\C++\EmptyClicker\ConsoleApplication1\main.cpp(417): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\Latencyx\Desktop\programmer\C++\EmptyClicker\ConsoleApplication1\main.cpp(419): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\Latencyx\Desktop\programmer\C++\EmptyClicker\ConsoleApplication1\main.cpp(477): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+  ConsoleApplication1.vcxproj -> C:\Users\Latencyx\Desktop\programmer\C++\EmptyClicker\Debug\EmptyClicker.exe
